@@ -38,11 +38,11 @@
  },
  "SMSGlobal": {
   "Enabled": true,
-  "Username": "1234",
-  "Password": "12334",
+  "Username": "admin",
+  "Password": "test",
   "Contacts": [
    {
-    "Name": "StyleGherkin",
+    "Name": "Cat",
     "Number": "1231424",
     "Enabled": true
    }
