@@ -14,7 +14,6 @@ import (
 	"github.com/thrasher-/gocryptotrader/config"
 	"github.com/thrasher-/gocryptotrader/currency"
 	"github.com/thrasher-/gocryptotrader/exchanges"
-	"github.com/thrasher-/gocryptotrader/exchanges/bitfinex"
 	"github.com/thrasher-/gocryptotrader/exchanges/bitstamp"
 	"github.com/thrasher-/gocryptotrader/exchanges/bittrex"
 	"github.com/thrasher-/gocryptotrader/exchanges/kraken"
