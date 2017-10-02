@@ -1201,6 +1201,9 @@ github.com/thrasher-/gocryptotrader/portfolio/portfolio.go:248.176,250.3 1 0
 github.com/thrasher-/gocryptotrader/portfolio/portfolio.go:252.23,254.17 2 2
 github.com/thrasher-/gocryptotrader/portfolio/portfolio.go:258.3,258.33 1 1
 github.com/thrasher-/gocryptotrader/portfolio/portfolio.go:261.3,261.14 1 1
+github.com/thrasher-/gocryptotrader/portfolio/portfolio.go:291.10,293.4 1 0
+github.com/thrasher-/gocryptotrader/portfolio/portfolio.go:293.4,295.4 1 0
+github.com/thrasher-/gocryptotrader/portfolio/portfolio.go:301.58,303.32 2 1
 github.com/thrasher-/gocryptotrader/portfolio/portfolio.go:254.17,256.4 1 1
 github.com/thrasher-/gocryptotrader/portfolio/portfolio.go:258.33,260.4 1 2
 github.com/thrasher-/gocryptotrader/portfolio/portfolio.go:263.24,265.17 2 2
@@ -1249,8 +1252,6 @@ github.com/thrasher-/gocryptotrader/smsglobal/smsglobal.go:29.2,29.16 1 1
 github.com/thrasher-/gocryptotrader/smsglobal/smsglobal.go:24.42,25.22 1 1
 github.com/thrasher-/gocryptotrader/smsglobal/smsglobal.go:25.22,27.4 1 1
 github.com/thrasher-/gocryptotrader/smsglobal/smsglobal.go:33.54,34.43 1 1
-github.com/thrasher-/gocryptotrader/smsglobal/smsglobal.go:34.43,35.51 1 1
-github.com/thrasher-/gocryptotrader/smsglobal/smsglobal.go:35.51,37.18 2 0
 github.com/thrasher-/gocryptotrader/smsglobal/smsglobal.go:37.18,39.5 1 0
 github.com/thrasher-/gocryptotrader/smsglobal/smsglobal.go:45.76,46.42 1 2
 github.com/thrasher-/gocryptotrader/smsglobal/smsglobal.go:51.2,51.30 1 1
@@ -1289,6 +1290,10 @@ mode: atomic
 github.com/thrasher-/gocryptotrader/tools/portfolio/portfolio.go:15.13,28.16 10 0
 github.com/thrasher-/gocryptotrader/tools/portfolio/portfolio.go:32.2,32.29 1 0
 github.com/thrasher-/gocryptotrader/tools/portfolio/portfolio.go:46.2,47.16 2 0
+github.com/thrasher-/gocryptotrader/tools/portfolio/portfolio.go:68.3,74.36 5 0
+github.com/thrasher-/gocryptotrader/tools/portfolio/portfolio.go:78.3,79.18 2 0
+github.com/thrasher-/gocryptotrader/tools/portfolio/portfolio.go:84.3,85.23 2 0
+github.com/thrasher-/gocryptotrader/tools/portfolio/portfolio.go:64.17,66.4 1 0
 github.com/thrasher-/gocryptotrader/tools/portfolio/portfolio.go:51.2,63.27 7 0
 github.com/thrasher-/gocryptotrader/tools/portfolio/portfolio.go:88.2,88.26 1 0
 github.com/thrasher-/gocryptotrader/tools/portfolio/portfolio.go:92.2,95.16 3 0
